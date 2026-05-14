@@ -334,17 +334,18 @@ uvicorn main:app --host 0.0.0.0 --port $PORT
 
 # Screenshots
 
+
 ## IPO Evaluator
-- Gauge-based return prediction
-- Parameter contribution visualization
-- Long-term and short-term analysis
+- Gauge-based return prediction.
+- Parameter contribution visualization.
+- Long-term and short-term analysis.
 
 ## Sentiment Dashboard
-- Conviction clustering
-- Sentiment velocity tracking
-- AI confidence estimation
-- Real-time streaming updates
+- Conviction clustering.
+- Sentiment velocity tracking.
+- AI confidence estimation.
+- Real-time streaming updates.
 
 ## Sector-Wise Prediction
-- Dynamic sector selection
-- Sector-specialized inference engine
+- Dynamic sector selection.
+- Sector-specialized inference engine.
